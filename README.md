@@ -7,13 +7,13 @@ Stop saying interface.
 
 ### Before Images that have better names and point out things
 
-![Image of a thing](https://github.com/erinpagemd/product-creation-workflow/blob/master/images/Screenshot%202019-01-16%2010.07.55.png)
+![Image of a thing](https://github.com/erinpagemd/product-creation-workflow/blob/master/images/old-basics-top-screen.png)
 
 ### Solution
 Some words here.
 
 ### After images that have better names and point out things
-![Image of a better thing](https://github.com/erinpagemd/product-creation-workflow/blob/master/images/Screenshot%202019-01-16%2010.10.01.png)
+![Image of a better thing](https://github.com/erinpagemd/product-creation-workflow/blob/master/images/new-basics-full-screen.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
