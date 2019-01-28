@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+### Problem
+Product creation is a central issue in Equipement Rentals. Variations in product offerings can quickly become confusing and difficult to present in a user interface. At Beachy, our MVP was a simple interface to allow Operations personnel to create products instead of developers. This initial interface was bare bones. 
 
-You can use the [editor on GitHub](https://github.com/erinpagemd/product-creation-workflow/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, having the Beachy operations team set up all products for clients was not scalable. We needed to push this task off to a user that works for the client. In order for that to be possible, a more intuitive interface was needed.
 
 ### Markdown
 
