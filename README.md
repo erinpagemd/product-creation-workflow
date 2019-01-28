@@ -5,27 +5,15 @@ However, having the Beachy operations team set up all products for clients was n
 
 Stop saying interface.
 
-### Markdown
+### Before Images that have better names and point out things
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image of a thing](https://github.com/erinpagemd/product-creation-workflow/blob/master/images/Screenshot%202019-01-16%2010.07.55.png)
 
-```markdown
-Syntax highlighted code block
+### Solution
+Some words here.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### After images that have better names and point out things
+![Image of a better thing](https://github.com/erinpagemd/product-creation-workflow/blob/master/images/Screenshot%202019-01-16%2010.10.01.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
