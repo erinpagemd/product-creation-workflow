@@ -15,6 +15,8 @@ Some words here.
 ### After images that have better names and point out things
 ![Image of a better thing](https://github.com/erinpagemd/product-creation-workflow/blob/master/images/new-basics-full-screen.png)
 
+### Code reusability between create and edit
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
