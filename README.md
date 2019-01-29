@@ -12,8 +12,16 @@ Stop saying interface.
 ## Solution
 Some words here.
 
-### After images that have better names and point out things
-![Image of a better thing](https://raw.githubusercontent.com/erinpagemd/product-creation-workflow/master/images/new-basics-full-screen.png)
+### Overview
+![New Product Edit View With Arrows](https://raw.githubusercontent.com/erinpagemd/product-creation-workflow/master/images/new-basics-full-screen-with-arrows.png)
+
+* a
+1. some stuff here
+2. some more stuff here
+3. there is a third thing
+4. remember this
+5. oh and this was important
+6. we discussed this at length
 
 ## Results
 
