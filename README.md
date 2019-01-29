@@ -1,4 +1,4 @@
-### Problem
+## Problem
 Product creation is a central issue in Equipment Rentals. Variations in product offerings can quickly become confusing and difficult to present in a user interface. At Beachy, our MVP was a simple interface to allow Operations personnel to create products instead of developers. This initial interface was bare bones. 
 
 However, having the Beachy operations team set up all products for clients was not scalable. We needed to push this task off to a user that works for the client. In order for that to be possible, a more intuitive interface was needed.
@@ -9,13 +9,19 @@ Stop saying interface.
 
 ![Image of a thing](https://raw.githubusercontent.com/erinpagemd/product-creation-workflow/master/images/old-basics-top-screen.png)
 
-### Solution
+## Solution
 Some words here.
 
 ### After images that have better names and point out things
 ![Image of a better thing](https://raw.githubusercontent.com/erinpagemd/product-creation-workflow/master/images/new-basics-full-screen.png)
 
+## Results
+
+## Discussion
+
 ### Code reusability between create and edit
+
+## notes
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
