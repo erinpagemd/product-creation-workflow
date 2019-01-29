@@ -15,13 +15,13 @@ Some words here.
 ### Overview
 ![New Product Edit View With Arrows](https://raw.githubusercontent.com/erinpagemd/product-creation-workflow/master/images/new-basics-full-screen-with-arrows.png)
 
-* a
-1. some stuff here
-2. some more stuff here
-3. there is a third thing
-4. remember this
-5. oh and this was important
-6. we discussed this at length
+a. Some elements of the previous UI were kept.
+1. Instead of tabs, we use a step system.
+2. Better UX b/c see progress and summary.
+3. Add tool tips to help user.
+4. Elements of the summary are collapsed and match the steps.
+5. Included placeholder text.
+6. The button is only clickable if the required information is present.
 
 ## Results
 
@@ -29,14 +29,6 @@ Some words here.
 
 ### Code reusability between create and edit
 
-## notes
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erinpagemd/product-creation-workflow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
