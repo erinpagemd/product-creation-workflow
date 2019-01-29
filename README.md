@@ -7,7 +7,7 @@ Stop saying interface.
 
 ### Before Images that have better names and point out things
 
-![Image of a thing](https://github.com/erinpagemd/product-creation-workflow/blob/master/images/old-basics-top-screen.png)
+![Image of a thing](https://raw.githubusercontent.com/erinpagemd/product-creation-workflow/master/images/old-basics-top-screen.png)
 
 ### Solution
 Some words here.
